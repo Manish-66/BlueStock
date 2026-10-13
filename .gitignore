@@ -1,0 +1,15 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Raw and bulky temporary downloads (if large)
+# Keep data/raw tracked if required for submission
+# data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
