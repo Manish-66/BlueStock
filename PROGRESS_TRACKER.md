@@ -13,8 +13,8 @@
 | :--- | :--- | :--- | :---: | :---: |
 | **Day 1** | **Project Setup + Data Ingestion (ETL)** | Folder structure, `requirements.txt`, `data_ingestion.py`, `live_nav_fetch.py`, raw CSVs, Git repo commit | **15%** | ✅ **COMPLETED & PUSHED** |
 | **Day 2** | **Data Cleaning + SQL Database Design** | `clean_nav.csv`, `clean_transactions.csv`, `clean_performance.csv`, `schema.sql`, `bluestock_mf.db` (SQLite), 10 queries, data dictionary | **10%** | ✅ **COMPLETED & PUSHED** |
-| **Day 3** | **Exploratory Data Analysis (EDA)** | `03_eda_analysis.ipynb` with distributions, trends, heatmaps, and outlier detection | **15%** | ⏳ *Next Step* |
-| **Day 4** | **Fund Performance Analytics** | `04_performance_analytics.ipynb`, CAGR, Sharpe, Sortino, Alpha, Beta vs Benchmarks | **15%** | ⬜ *Pending* |
+| **Day 3** | **Exploratory Data Analysis (EDA)** | `eda_analysis.py`, `03_eda_analysis.ipynb`, 15 charts in `reports/figures/`, `day3_eda_findings.md` | **15%** | ✅ **COMPLETED & PUSHED** |
+| **Day 4** | **Fund Performance Analytics** | `04_performance_analytics.ipynb`, CAGR, Sharpe, Sortino, Alpha, Beta vs Benchmarks | **15%** | ⏳ *Next Step* |
 | **Day 5** | **Interactive Dashboard Development** | Power BI / Tableau / Streamlit interactive multi-page dashboard | **20%** | ⬜ *Pending* |
 | **Day 6** | **Advanced Analytics + Risk Metrics** | Value at Risk (VaR), investor cohort analysis, Monte Carlo simulation | **10%** | ⬜ *Pending* |
 | **Day 7** | **Final Report + Presentation + Deployment** | `Final_Report.pdf` (15-20 pages), 12-slide deck (`Presentation.pptx`), cleaned codebase | **15%** | ⬜ *Pending* |
