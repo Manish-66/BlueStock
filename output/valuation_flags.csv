@@ -1,0 +1,53 @@
+company_id,company_name,broad_sector,pe_ratio,pe_ratio_5yr_median,sector_median_pe,valuation_badge,valuation_rationale
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.49,47.16,Caution,P/E (79.3x) > 1.5x of Industrials median (47.2x) - Overvalued premium
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,53.7,38.01,Caution,P/E (76.2x) > 1.5x of Consumer Discretionary median (38.0x) - Overvalued premium
+ABB,Abbott India Ltd,Industrials,75.58,60.485,47.16,Caution,P/E (75.6x) > 1.5x of Industrials median (47.2x) - Overvalued premium
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,45.655,38.01,Caution,P/E (72.5x) > 1.5x of Consumer Discretionary median (38.0x) - Overvalued premium
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,53.635,47.16,Caution,P/E (71.9x) > 1.5x of Industrials median (47.2x) - Overvalued premium
+NHPC,"NHPC Ltd
+",Energy,71.17,59.83,44.92,Caution,P/E (71.2x) > 1.5x of Energy median (44.9x) - Overvalued premium
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,54.025,34.24,Caution,P/E (70.0x) > 1.5x of Financials median (34.2x) - Overvalued premium
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,50.870000000000005,34.24,Caution,P/E (69.2x) > 1.5x of Financials median (34.2x) - Overvalued premium
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,68.53,47.260000000000005,34.24,Caution,P/E (68.5x) > 1.5x of Financials median (34.2x) - Overvalued premium
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,30.585,44.92,Caution,P/E (68.2x) > 1.5x of Energy median (44.9x) - Overvalued premium
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,31.715000000000003,38.01,Caution,P/E (67.1x) > 1.5x of Consumer Discretionary median (38.0x) - Overvalued premium
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,45.585,38.01,Caution,P/E (60.4x) > 1.5x of Consumer Discretionary median (38.0x) - Overvalued premium
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,34.555,38.01,Caution,P/E (58.4x) > 1.5x of Consumer Discretionary median (38.0x) - Overvalued premium
+SBIN,State Bank of India,Financials,54.93,50.985,34.24,Caution,P/E (54.9x) > 1.5x of Financials median (34.2x) - Overvalued premium
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,37.114999999999995,55.62,Discount,P/E (36.1x) < 0.7x of Materials median (55.6x) - Value discount
+INFY,Infosys Ltd,Information Technology,35.99,34.31,63.63,Discount,P/E (36.0x) < 0.7x of Information Technology median (63.6x) - Value discount
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,34.51,21.805,50.95,Discount,P/E (34.5x) < 0.7x of Consumer Staples median (51.0x) - Value discount
+COALINDIA,Coal India Ltd,Materials,34.27,33.22,55.62,Discount,P/E (34.3x) < 0.7x of Materials median (55.6x) - Value discount
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,37.19,50.95,Discount,P/E (33.6x) < 0.7x of Consumer Staples median (51.0x) - Value discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,34.885000000000005,48.33,Discount,P/E (32.9x) < 0.7x of Communication Services median (48.3x) - Value discount
+LT,Larsen & Toubro Ltd,Industrials,30.8,24.09,47.16,Discount,P/E (30.8x) < 0.7x of Industrials median (47.2x) - Value discount
+NTPC,NTPC Ltd,Energy,30.8,44.12,44.92,Discount,P/E (30.8x) < 0.7x of Energy median (44.9x) - Value discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,29.8,35.98,47.16,Discount,P/E (29.8x) < 0.7x of Industrials median (47.2x) - Value discount
+IOC,"Indian Oil Corporation
+",Energy,28.61,49.11,44.92,Discount,P/E (28.6x) < 0.7x of Energy median (44.9x) - Value discount
+SHREECEM,Shree Cement Ltd,Materials,25.87,33.97,55.62,Discount,P/E (25.9x) < 0.7x of Materials median (55.6x) - Value discount
+GAIL,GAIL (India) Ltd,Energy,25.84,28.259999999999998,44.92,Discount,P/E (25.8x) < 0.7x of Energy median (44.9x) - Value discount
+JSWENERGY,JSW Energy Ltd,Energy,24.79,37.545,44.92,Discount,P/E (24.8x) < 0.7x of Energy median (44.9x) - Value discount
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,44.31,34.24,Discount,P/E (20.8x) < 0.7x of Financials median (34.2x) - Value discount
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,28.565,38.01,Discount,P/E (20.8x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
+PNB,Punjab National Bank,Financials,19.29,20.58,34.24,Discount,P/E (19.3x) < 0.7x of Financials median (34.2x) - Value discount
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.31,44.92,Discount,P/E (18.1x) < 0.7x of Energy median (44.9x) - Value discount
+BEL,Bharat Electronics Ltd,Industrials,17.89,56.305,47.16,Discount,P/E (17.9x) < 0.7x of Industrials median (47.2x) - Value discount
+BANKBARODA,Bank of Baroda,Financials,16.89,51.62,34.24,Discount,P/E (16.9x) < 0.7x of Financials median (34.2x) - Value discount
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,28.409999999999997,34.24,Discount,P/E (16.8x) < 0.7x of Financials median (34.2x) - Value discount
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,21.865000000000002,38.01,Discount,P/E (15.6x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,47.335,34.24,Discount,P/E (15.1x) < 0.7x of Financials median (34.2x) - Value discount
+TATAPOWER,"Tata Power Company Ltd
+",Energy,14.5,23.509999999999998,44.92,Discount,P/E (14.5x) < 0.7x of Energy median (44.9x) - Value discount
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,14.22,43.58,38.01,Discount,P/E (14.2x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,12.379999999999999,47.06,Discount,P/E (11.7x) < 0.7x of Healthcare median (47.1x) - Value discount
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,10.13,27.58,38.01,Discount,P/E (10.1x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,36.519999999999996,34.24,Discount,P/E (9.8x) < 0.7x of Financials median (34.2x) - Value discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,31.5,38.01,Discount,P/E (9.5x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,56.0,34.24,Discount,P/E (9.0x) < 0.7x of Financials median (34.2x) - Value discount
+TRENT,Trent Ltd,Consumer Discretionary,8.65,67.02,38.01,Discount,P/E (8.7x) < 0.7x of Consumer Discretionary median (38.0x) - Value discount
